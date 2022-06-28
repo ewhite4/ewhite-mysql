@@ -1,5 +1,31 @@
 {
   "dependencies": {
-    "mysql": "^2.18.1"
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "name": "ewhite-mysql",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewhite4/ewhite-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewhite4/ewhite-mysql/issues"
+  },
+  "homepage": "https://github.com/ewhite4/ewhite-mysql#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
   }
 }
