@@ -5,8 +5,8 @@ A database that keeps track of your company's employee's.
 Table of Contents
 
 -Installation
+
 -Usage
--License
 
 Installation
 1. git clone git@github.com:ewhite4/ewhite-mysql.git
