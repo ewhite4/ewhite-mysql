@@ -1,4 +1,5 @@
 COMPANY TRACKER
+A database that keeps track of your company's employee's.
 
 Table of Contents
 -Installation
